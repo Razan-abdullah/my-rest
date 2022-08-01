@@ -1,0 +1,101 @@
+html{
+    background-image: url("./88.jpg");
+    background-size: cover;
+    position: relative;
+    }
+    
+    
+    
+   
+    header{
+        position:fixed;
+        
+        display: block;
+            background-image: url("./sar5.jpg");
+            width: 205%;
+    margin: -16px;
+    height: 135px;
+    background-color: black;
+    top:1px;
+        }
+
+        div{color:bisque;
+            font-family: "Sofia", sans-serif;
+            font-size: 50px;
+            display: inline;
+            
+            vertical-align:inherit;
+           
+            text-shadow: 3px 3px 3px #955555;
+        line-height: 157%;
+            width:min-content;
+         
+            word-spacing: 2px;
+        }
+        
+    
+    
+        a{
+    
+            display:block;
+            text-decoration: none;
+            background-color: #040432;
+            color:bisque;
+            border-radius: 13%;
+            width:20px;
+            padding: 10px;
+            margin: 10px
+            ;
+            font-size: 22px;
+            text-indent: 10px;
+            line-height: 3;
+            position: revert;
+            left:-15px;
+        } 
+        nav{
+    
+            display: block;
+            background-color: #040432;
+            position: fixed;
+            
+        }
+        
+       
+        
+        
+    
+    footer {
+        background-color: #040432;
+        position: absolute;
+        bottom: -617px;
+        right: -24px;
+        display: block;
+        width: 103%;
+    color:bisque;
+    line-height: 26px;
+    }      
+    
+    
+    body{
+    position: relative;
+    
+    }
+    p{
+    overflow: hidden;
+    top:130px;
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    max-width: 400px;
+    }
+                
+    .m{
+      position: absolute;
+      top:
+
+
+    }
+    h{
+font-size: 20px;
+
+    }

@@ -1,0 +1,98 @@
+
+html{
+    background-image: url("./88.jpg");
+    background-size: cover;
+    position: relative;
+    }
+    
+    
+    div{color:bisque;
+        font-family: "Sofia", sans-serif;
+        font-size: 50px;
+        display: inline;
+        
+        vertical-align:inherit;
+       
+        text-shadow: 3px 3px 3px #955555;
+    line-height: 157%;
+        width:min-content;
+     
+        word-spacing: 2px;
+    }
+    
+    .img1{
+    
+    width:70px;
+    display: inline;
+    border-color: rgb(235, 210, 210);
+    border-style: solid;
+    }
+    
+    
+    header{
+        position:fixed;
+        
+        display: block;
+            background-image: url("./sar5.jpg");
+            
+            width: 205%;
+height: 132px;;
+    margin: -9px;
+        }
+    
+    
+        a{
+    
+            display:inline;
+            text-decoration: none;
+            background-color: #040432;
+            color:bisque;
+            border-radius: 13%;
+            width:20px;
+            padding: 10px;
+            margin: 10px
+            ;
+            text-indent: 10px;
+            line-height: 3;
+            position: revert;
+            left:-15px;
+        } 
+        nav
+            {
+                display: block;
+    background-color: #040432;
+    position: fixed;
+    top: 83px;
+    left:0px;
+    width: 1503px;
+}
+
+       
+   
+    H2{
+        display: block;
+        position: fixed;
+        top: 119px;
+        background: linear-gradient(45deg, black, transparent);
+    
+    }    
+    
+ .div2{
+    position: flex;
+    top: 200px;
+    overflow: hidden;
+ }   
+ body{
+
+    position: relative;
+ }
+ footer {
+    background-color: #040432;
+    position: absolute;
+    bottom: -617px;
+    right: -24px;
+    display: block;
+    width: 103%;
+color:bisque;
+line-height: 26px;
+}      
